@@ -1,0 +1,3 @@
+obj\Debug\_biblioteca.g.cs
+obj\Debug\Activity1.g.cs
+obj\Debug\biblioteca_Activity1_BeforeInitializeComponentHelper.cs

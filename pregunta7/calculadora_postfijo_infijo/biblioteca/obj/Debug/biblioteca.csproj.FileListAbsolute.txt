@@ -1,0 +1,14 @@
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\bin\Debug\biblioteca.dll
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\Activity1.g.xaml
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\biblioteca_Activity1_BeforeInitializeComponentHelper.txt
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\_biblioteca.g.cs
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\Activity1.g.cs
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\biblioteca_Activity1_BeforeInitializeComponentHelper.cs
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\biblioteca.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\biblioteca.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\biblioteca.dll
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\biblioteca.pdb
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\biblioteca\obj\Debug\biblioteca.csproj.FileListAbsolute.txt

@@ -1,0 +1,20 @@
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\bin\Debug\calculadora_postfijo_infijo.exe.config
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.csprojResolveAssemblyReference.cache
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.Form1.resources
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.Properties.Resources.resources
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.csproj.GenerateResource.Cache
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\bin\Debug\calculadora_postfijo_infijo.exe
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\bin\Debug\calculadora_postfijo_infijo.pdb
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.exe
+C:\Users\alvar\Desktop\inf317\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.pdb
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\bin\Debug\calculadora_postfijo_infijo.exe.config
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.exe
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.pdb
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\bin\Debug\calculadora_postfijo_infijo.exe
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\bin\Debug\calculadora_postfijo_infijo.pdb
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.csprojResolveAssemblyReference.cache
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.Form1.resources
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.Properties.Resources.resources
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\obj\Debug\calculadora_postfijo_infijo.csproj.GenerateResource.Cache
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\bin\Debug\biblioteca.dll
+C:\Users\PC-DELL\Documents\Visual Studio 2012\Projects\calculadora_postfijo_infijo\calculadora_postfijo_infijo\bin\Debug\biblioteca.pdb
